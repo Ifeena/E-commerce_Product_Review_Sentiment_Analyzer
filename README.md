@@ -18,12 +18,12 @@ Objectives
 1. Ifechukwu Akaeze
 2. Daniel Edet Onofiok
 3. Okediran Tope Emmanuel
-4. Dr. Ezeuchu Emmanuel Uzond
+4. Dr. Ezeuchu Emmanuel Uzondu
 5. Modinat Gbemisola Adesope
 6. Adebayo Olalekan
 7. Khadijat Oludolapo Adebiyi
 8. Chinua Mbajekwe
-9. Chinwe Njoku
+9. Dr. Chinwe Njoku
 10. Vincent C. Ajaegbu
 11. Ayodele Kehinde Richard
 12. Precious Odinakachi Loveday
