@@ -11,7 +11,7 @@ Objectives
 1. Data Acquisition: Collected over 2,000 reviews and corresponding star ratings from AliExpress's database.
 2. Data Preprocessing: Cleaned and tokenized text data, handling missing values and removing special characters.
 3. Feature Engineering: Applied Bag of Words (BoW) and TF-IDF for feature extraction.
-4. Model Training: Collaboratively trained various models, including Logistic Regression, XGBoost, and Naive Bayes, evaluating performance using metrics such as accuracy, precision, and F1 score.
+4. Model Training: Collaboratively trained various models, including Vader (Pre trained model), Logistic Regression, XGBoost, and Naive Bayes, evaluating performance using metrics such as accuracy, precision, and F1 score.
 5. Model Evaluation: Analyzed models to identify the most effective option based on performance metrics.
 6. Model Deployment: Deployed the best-performing model using Flask for local and Streamlit for web-based access.
 # Contributors
