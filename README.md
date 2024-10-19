@@ -8,7 +8,7 @@ Objectives
 - Extract specific insights from customer reviews for actionable product and marketing improvements.
 - Improve customer satisfaction through better understanding of feedback trends.
 # Methodology
-1. Data Acquisition: Collected over 2,000 reviews and corresponding star ratings from AliExpress's database.
+1. Data Acquisition: Extracted over 10,000 reviews and corresponding star ratings from AliExpress's database.
 2. Data Preprocessing: Cleaned and tokenized text data, handling missing values and removing special characters.
 3. Feature Engineering: Applied Bag of Words (BoW) and TF-IDF for feature extraction.
 4. Model Training: Collaboratively trained various models, including Vader (Pre trained model), Logistic Regression, XGBoost, and Naive Bayes, evaluating performance using metrics such as accuracy, precision, and F1 score.
